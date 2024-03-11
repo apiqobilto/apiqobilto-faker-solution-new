@@ -1,3 +1,3 @@
 # apiqobilto-faker-solution
 
-easy to create dummy data.
+create dummy data for testing.

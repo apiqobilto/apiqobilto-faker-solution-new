@@ -8,7 +8,7 @@
     "generate:data": "node src/index.js"
   },
   "keywords": [
-    "apiqobilto-faker-solution",
+    "apiqobilto-faker-solution-new",
     "faker",
     "dummy",
     "utility",
@@ -21,14 +21,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/todstick/apiqobilto-faker-solution.git"
+    "url": "https://github.com/apiqobilto/apiqobilto-faker-solution-new.git"
   },
   "bugs": {
-    "url": "https://github.com/todstick/apiqobilto-faker-solution/issues"
+    "url": "https://github.com/apiqobilto/apiqobilto-faker-solution-new/issues"
   },
-  "homepage": "https://github.com/todstick/apiqobilto-faker-solution#readme",
+  "homepage": "https://github.com/apiqobilto/apiqobilto-faker-solution-new#readme",
   "dependencies": {
     "axios": "^1.6.7",
-    "apiqobilto-faker-solution": "1.0.0"
+    "apiqobilto-faker-solution-new": "1.0.0"
   }
 }

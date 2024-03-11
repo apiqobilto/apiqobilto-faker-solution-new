@@ -18,7 +18,7 @@ async function generate(params = {}) {
   if (params.gender) {
     q.gender = params.gender
   }
-
+  console.log('validasi on.')
   if (params.results) {
     q.results = parseInt(params.results)
   }
